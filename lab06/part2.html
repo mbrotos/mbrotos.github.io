@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function validateForm() {
+  var letters = /[^A-Za-z]+$/;
+  var format = /[0-9]\d{2}-\d{3}-\d{4}$/;
+  if (document.forms["myForm"]["fname"].value.match(letters)) {
+    alert("Name must only be letters!");
+    return false;
+  }
+  else if (document.forms["myForm"]["number"].value.match(format) == null) {
+	alert("Phone number must be in the format XXX-XXX-XXXX !");
+    return false;
+  }
+}
+</script>
+</head>
+<body>
+
+<form name="myForm" action="/~apsorren/cgi-bin/part2.rb" onsubmit="return validateForm()" method="post">
+  Name: <input type="text" name="fname"><br>
+  Address: <input type="text" name="address"><br>
+  Phone Number: <input type="text" name="number"><br>
+  <button type="submit">Submit to ruby</button><br>
+  <button type="submit" formaction="/~apsorren/cgi-bin/part2.py">Submit to python</button>
+</form>
+
+</body>
+</html>
