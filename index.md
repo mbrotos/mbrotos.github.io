@@ -6,7 +6,7 @@ title: Adam Sorrenti
 # Adam Sorrenti
 
 <div class="profile">
-  <img src="old-site/images/user-3.jpg" alt="Your Name">
+  <img src="images/headshot-square.JPG" alt="Your Name">
   <div>
     Title Here<br><br>
 
