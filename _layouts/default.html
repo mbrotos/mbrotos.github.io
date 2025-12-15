@@ -41,6 +41,29 @@
         color: #c9d1d9;
       }
     }
+    /* Mobile fix for profile section */
+    @media (max-width: 600px) {
+        .profile {
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .profile img {
+            margin: 0 0 12px 0;
+            width: 130px;
+        }
+
+        .profile div {
+            line-height: 1.4;
+        }
+
+        .profile a {
+            display: inline-block;
+            margin: 4px 8px;
+        }
+    }
   </style>
   <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-EWSPXYP376"></script>
