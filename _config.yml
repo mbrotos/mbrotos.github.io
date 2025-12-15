@@ -1,3 +1,16 @@
 theme: minima
-title: Adam Sorrenti's homepage
+minima:
+  skin: auto
+  social_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/mbrotos
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/adam-Sorrenti
+    - title: Google Scholar
+      icon: google-scholar
+      url: https://scholar.google.com/citations?user=OJyprhYAAAAJ
+google_analytics: G-EWSPXYP376
+title: Adam Sorrenti
 description: A place to discover Adam Sorrenti's projects and writings.
