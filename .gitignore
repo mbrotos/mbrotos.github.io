@@ -1,2 +1,5 @@
 .DS_Store
 .vscode/settings.json
+Gemfile
+Gemfile.lock
+_site/
