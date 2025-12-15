@@ -1,16 +1,4 @@
-remote_theme: "jekyll/minima@1e8a445"
-minima:
-  skin: auto
-  social_links:
-    - title: GitHub
-      icon: github
-      url: https://github.com/mbrotos
-    - title: LinkedIn
-      icon: linkedin
-      url: https://www.linkedin.com/in/adam-Sorrenti
-    - title: Google Scholar
-      icon: google-scholar
-      url: https://scholar.google.com/citations?user=OJyprhYAAAAJ
-google_analytics: G-EWSPXYP376
+theme: minima
 title: Adam Sorrenti
-description: A place to discover Adam Sorrenti's projects and writings.
+markdown: kramdown
+google_analytics: G-EWSPXYP376
