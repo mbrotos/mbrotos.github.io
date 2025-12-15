@@ -8,14 +8,15 @@ title: Adam Sorrenti
 <div class="profile">
   <img src="old-site/images/user-3.jpg" alt="Your Name">
   <div>
-    Title Here  
+    Title Here<br><br>
 
-    [LinkedIn](https://www.linkedin.com/in/adam-sorrenti/)
-    [Google Scholar](https://scholar.google.com/citations?user=OJyprhYAAAAJ)
-    [GitHub](https://github.com/mbrotos)
-    [Email](mailto:adamsorrenti8@gmail.com)
+    <a href="https://www.linkedin.com/in/adam-sorrenti/">LinkedIn</a><br>
+    <a href="https://scholar.google.com/citations?user=OJyprhYAAAAJ">Google Scholar</a><br>
+    <a href="https://github.com/mbrotos">GitHub</a><br>
+    <a href="mailto:adamsorrenti8@gmail.com">Email</a>
   </div>
 </div>
+
 
 ## Research Interests
 
