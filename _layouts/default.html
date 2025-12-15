@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: site.title }}</title>
+
+  <!-- GitHub Markdown style -->
+  <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.8.0/github-markdown.min.css">
+
+  <style>
+    /* Layout */
+    .markdown-body {
+      box-sizing: border-box;
+      min-width: 200px;
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 45px;
+    }
+
+    /* Profile photo */
+    .profile {
+      display: flex;
+      align-items: flex-start;
+      margin-bottom: 24px;
+    }
+    .profile img {
+      width: 120px;
+      border-radius: 6%;
+      margin-right: 20px;
+    }
+
+    /* Automatic dark mode */
+    @media (prefers-color-scheme: dark) {
+      body {
+        background-color: #0d1117;
+      }
+      .markdown-body {
+        background-color: #0d1117;
+        color: #c9d1d9;
+      }
+    }
+  </style>
+  <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-EWSPXYP376"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-EWSPXYP376');
+    </script>
+</head>
+
+<body>
+
+<article class="markdown-body">
+  {{ content }}
+</article>
+
+</body>
+</html>

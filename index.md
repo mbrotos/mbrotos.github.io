@@ -1,15 +1,32 @@
+---
+layout: default
+title: Adam Sorrenti
+---
+
 # Adam Sorrenti
 
-![Your photo](old-site/images/user-3.jpg){width=140}
+<div class="profile">
+  <img src="old-site/images/user-3.jpg" alt="Your Name">
+  <div>
+    Title Here  
 
-Test
+    [LinkedIn](https://www.linkedin.com/in/adam-sorrenti/)
+    [Google Scholar](https://scholar.google.com/citations?user=OJyprhYAAAAJ)
+    [GitHub](https://github.com/mbrotos)
+    [Email](mailto:adamsorrenti8@gmail.com)
+  </div>
+</div>
 
-[LinkedIn](https://www.linkedin.com/in/adam-sorrenti/) ·
-[Google Scholar](https://scholar.google.com/citations?user=OJyprhYAAAAJ) ·
+## Research Interests
 
----
+- test
 
-## Announcements
-Test
+## Publications
 
----
+<details>
+<summary>Click to expand</summary>
+
+- **Paper title**  
+  *Conference, Year*
+
+</details>
