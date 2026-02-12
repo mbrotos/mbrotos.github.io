@@ -19,7 +19,7 @@ title: Adam Sorrenti
 
 ## About me
 
-I am an applied AI practitioner who contributes to rigorous research and builds production-ready systems with strong software engineering foundations. I recently completed a thesis-based MSc in Computer Science at Toronto Metropolitan University as a Vector Institute Scholar, with applied experience across industrial research labs, fintech, public health, and medical devices.
+I am an applied AI practitioner who conducts rigorous research and builds production-ready systems with strong software engineering foundations. I recently completed a thesis-based MSc in Computer Science at Toronto Metropolitan University as a Vector Institute Scholar, with applied experience across industrial research labs, fintech, public health, and medical devices.
 
 My work combines modern sequence models, generative modelling, reinforcement learning, and probabilistic methods with disciplined engineering practices. I run controlled empirical studies, evaluate models under realistic constraints, and ship scalable systems through stable distributed training, risk-aware MLOps, and collaborative product integration. I prioritize effective communication, cross-functional leadership, and measurable product impact.
 
