@@ -35,5 +35,5 @@ I am seeking roles where research directly informs deployed systems.
 
 ## Demos
 
-- **[Research Q&A](cohere-explore)** — Conversational RAG interface for exploring my research papers interactively. \[[GitHub](https://github.com/mbrotos/cohere-explore)\]
+- **[Research Q&A](https://mbrotos-cohere-explore.streamlit.app/)** — Conversational RAG interface for exploring my research papers interactively. \[[GitHub](https://github.com/mbrotos/cohere-explore)\]
 - **[SoundSeg](https://soundseg.com/)** — Audio segmentation and analysis tool. \[[GitHub](https://github.com/mbrotos/SoundSeg)\]
