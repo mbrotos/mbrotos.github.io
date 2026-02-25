@@ -32,3 +32,8 @@ I am seeking roles where research directly informs deployed systems.
 - **Industry Impact:** Shipped and evaluated ML systems in production environments at Intuit, Synaptive Medical, and public-sector health research initiatives  
 - **Recognition:** Vector Scholarship in Artificial Intelligence (2023–24); multiple academic excellence and merit-based awards  
 - **Focus Areas:** Applied ML research, deep learning, reinforcement learning, NLP, privacy-aware and data-limited learning
+
+## Demos
+
+- **[Research Q&A](cohere-explore)** — Conversational RAG interface for exploring my research papers interactively. \[[GitHub](https://github.com/mbrotos/cohere-explore)\]
+- **[SoundSeg](https://soundseg.com/)** — Audio segmentation and analysis tool. \[[GitHub](https://github.com/mbrotos/SoundSeg)\]
