@@ -25,13 +25,13 @@ My work combines modern sequence models, generative modelling, reinforcement lea
 
 I am seeking roles where research directly informs deployed systems.
 
-## Highlights
+<!-- ## Highlights
 
 - **Education:** MSc in Computer Science (Artificial Intelligence), Toronto Metropolitan University (thesis-based)  
 - **Research:** Author on peer-reviewed and submitted work in applied ML (ICDE, TPAMI), including sequence-to-sequence modelling, predictive systems, and optimization  
 - **Industry Impact:** Shipped and evaluated ML systems in production environments at Intuit, Synaptive Medical, and public-sector health research initiatives  
 - **Recognition:** Vector Scholarship in Artificial Intelligence (2023–24); multiple academic excellence and merit-based awards  
-- **Focus Areas:** Applied ML research, deep learning, reinforcement learning, NLP, privacy-aware and data-limited learning
+- **Focus Areas:** Applied ML research, deep learning, reinforcement learning, NLP, privacy-aware and data-limited learning -->
 
 ## Demos
 
