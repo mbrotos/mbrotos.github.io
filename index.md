@@ -11,7 +11,7 @@ title: Adam Sorrenti
     <!-- Title here --><br><br>
 
     <a href="https://www.linkedin.com/in/adam-sorrenti/">LinkedIn</a><br>
-    <a href="https://scholar.google.com/citations?user=OJyprhYAAAAJ">Google Scholar</a><br>
+    <a href="https://scholar.google.com/citations?user=OJyprhYAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a><br>
     <a href="https://github.com/mbrotos">GitHub</a><br>
     <a href="mailto:adamsorrenti8@gmail.com">Email</a>
   </div>
